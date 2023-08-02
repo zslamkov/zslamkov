@@ -1,5 +1,5 @@
 # 👋🏼 Welcome to my crib 🏡
-I'm a Developer Advocate at Voiceflow, helping designers and developers work together to build rich and assistive conversational experiences.
+I'm the Plaform PM at Voiceflow, helping designers and developers work together to build rich and assistive conversational experiences.
 
 Here you'll find projects where I've connected Voiceflow to messaging channels, NLU tools, and other third-party tools. 
 
